@@ -80,7 +80,11 @@ TP04_Docker/
 ├── requirements.txt
 ├── README.md
 ├── data/
-│ └── train_small.csv
+│   └── train_small.csv
 └── screenshots/
+    ├── docker_ps.png
+    ├── docker_compose.png
+    ├── localhost_8001.png
+    └── docker_hub.png
 ```
 Lien Docker Hub : https://hub.docker.com/r/achoik203q/tp04-analysis
