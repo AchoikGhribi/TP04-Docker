@@ -45,7 +45,8 @@ docker compose up : C'est automatique. Tout est écrit dans le fichier YAML, don
 
 On ajoute simplement un nouveau service dans le fichier compose.yaml. Par exemple pour PostgreSQL :
 
-
+```
+yaml
 services:
   data-analysis:
     build: .
@@ -68,7 +69,7 @@ services:
 
 volumes:
   postgres_data:
-
+```
 
 
 Structure du projet :
