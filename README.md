@@ -72,7 +72,7 @@ volumes:
 
 
 Structure du projet :
-
+```
 TP04_Docker/
 ├── app.py
 ├── Dockerfile
@@ -80,6 +80,7 @@ TP04_Docker/
 ├── requirements.txt
 ├── README.md
 ├── data/
-│   └── train_small.csv
+│ └── train_small.csv
 └── screenshots/
+```
 Lien Docker Hub : https://hub.docker.com/r/achoik203q/tp04-analysis
